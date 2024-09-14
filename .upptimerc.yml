@@ -9,6 +9,8 @@ sites:
     url: https://masterai.shuttleapp.rs/chat/count
   - name: MasterAi auth redirector
     url: https://redirector.rpgmaster.ai
+    expectedStatusCodes:
+      - 400
   - name: MasterAi qDrant
     url: https://qdrant.rpgmaster.ai/
 
