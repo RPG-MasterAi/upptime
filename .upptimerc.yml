@@ -9,6 +9,8 @@ sites:
     url: https://masterai.shuttleapp.rs/chat/count
   - name: MasterAi auth redirector
     url: https://redirector.rpgmaster.ai
+  - name: MasterAi qDrant
+    url: https://qdrant.rpgmaster.ai/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
