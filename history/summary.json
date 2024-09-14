@@ -41,19 +41,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/redirector.rpgmaster.ai.ico",
     "slug": "master-ai-auth-redirector",
     "status": "up",
-    "uptime": "91.66%",
-    "uptimeDay": "91.66%",
-    "uptimeWeek": "91.66%",
-    "uptimeMonth": "91.66%",
-    "uptimeYear": "91.66%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 178,
     "timeDay": 178,
     "timeWeek": 178,
     "timeMonth": 178,
     "timeYear": 178,
-    "dailyMinutesDown": {
-      "2024-09-14": 1
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "MasterAi qDrant",
