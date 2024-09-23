@@ -22,18 +22,20 @@
     "url": "https://masterai.shuttleapp.rs/chat/count",
     "icon": "https://icons.duckduckgo.com/ip3/masterai.shuttleapp.rs.ico",
     "slug": "master-ai-backend",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 618,
-    "timeDay": 552,
-    "timeWeek": 621,
-    "timeMonth": 618,
-    "timeYear": 618,
-    "dailyMinutesDown": {}
+    "time": 624,
+    "timeDay": 635,
+    "timeWeek": 633,
+    "timeMonth": 624,
+    "timeYear": 624,
+    "dailyMinutesDown": {
+      "2024-09-23": 0
+    }
   },
   {
     "name": "MasterAi auth redirector",
