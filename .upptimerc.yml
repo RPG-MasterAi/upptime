@@ -6,7 +6,7 @@ sites:
   - name: MasterAi website
     url: https://rpgmaster.ai/
   - name: MasterAi backend
-    url: https://masterai.shuttleapp.rs/chat/count
+    url: https://masterai.shuttleapp.rs/chats/count
   - name: MasterAi auth redirector
     url: https://redirector.rpgmaster.ai
     expectedStatusCodes:
