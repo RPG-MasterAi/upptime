@@ -13,6 +13,8 @@ sites:
       - 400
   - name: MasterAi qDrant
     url: https://qdrant.rpgmaster.ai/
+  - name: MasterAi DnD 5e API
+    url: https://dnd5eapi.rpgmaster.ai/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
