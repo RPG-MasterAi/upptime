@@ -1,7 +1,7 @@
 url: https://masterai.shuttleapp.rs/chats/count
-status: down
-code: 600
-responseTime: 626
-lastUpdated: 2024-12-06T14:51:22.094Z
+status: up
+code: 200
+responseTime: 394
+lastUpdated: 2024-12-06T15:11:25.242Z
 startTime: 2024-09-14T15:28:10.515Z
 generator: Upptime <https://github.com/upptime/upptime>
