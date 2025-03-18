@@ -22,7 +22,7 @@
     "url": "https://masterai.shuttleapp.rs/chats/count",
     "icon": "https://icons.duckduckgo.com/ip3/masterai.shuttleapp.rs.ico",
     "slug": "master-ai-backend",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -34,6 +34,7 @@
     "timeMonth": 617,
     "timeYear": 655,
     "dailyMinutesDown": {
+      "2025-03-18": 0,
       "2024-12-06": 38,
       "2024-11-28": 255,
       "2024-10-15": 82,
