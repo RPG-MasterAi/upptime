@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 229,
-    "timeDay": 131,
-    "timeWeek": 163,
-    "timeMonth": 211,
+    "timeDay": 203,
+    "timeWeek": 177,
+    "timeMonth": 213,
     "timeYear": 229,
     "dailyMinutesDown": {}
   },
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.86%",
-    "time": 651,
-    "timeDay": 690,
-    "timeWeek": 619,
-    "timeMonth": 641,
-    "timeYear": 651,
+    "time": 650,
+    "timeDay": 550,
+    "timeWeek": 593,
+    "timeMonth": 634,
+    "timeYear": 650,
     "dailyMinutesDown": {
       "2025-05-13": 16,
       "2025-03-18": 86,
@@ -41,26 +41,6 @@
       "2024-10-15": 82,
       "2024-10-03": 36,
       "2024-09-23": 6
-    }
-  },
-  {
-    "name": "MasterAi auth redirector",
-    "url": "https://redirector.rpgmaster.ai",
-    "icon": "https://icons.duckduckgo.com/ip3/redirector.rpgmaster.ai.ico",
-    "slug": "master-ai-auth-redirector",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 194,
-    "timeDay": 218,
-    "timeWeek": 184,
-    "timeMonth": 166,
-    "timeYear": 194,
-    "dailyMinutesDown": {
-      "2025-05-23": 0
     }
   },
   {
@@ -75,9 +55,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 541,
-    "timeDay": 621,
-    "timeWeek": 541,
-    "timeMonth": 549,
+    "timeDay": 541,
+    "timeWeek": 531,
+    "timeMonth": 546,
     "timeYear": 541,
     "dailyMinutesDown": {
       "2024-11-05": 35
@@ -95,9 +75,9 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.98%",
     "time": 526,
-    "timeDay": 710,
-    "timeWeek": 576,
-    "timeMonth": 526,
+    "timeDay": 594,
+    "timeWeek": 564,
+    "timeMonth": 525,
     "timeYear": 526,
     "dailyMinutesDown": {
       "2025-04-28": 28,
