@@ -7,10 +7,6 @@ sites:
     url: https://rpgmaster.ai/
   - name: MasterAi backend
     url: https://masterai.shuttleapp.rs/chats/count
-  - name: MasterAi auth redirector
-    url: https://redirector.rpgmaster.ai
-    expectedStatusCodes:
-      - 400
   - name: MasterAi qDrant
     url: https://qdrant.rpgmaster.ai/
   - name: MasterAi DnD 5e API
